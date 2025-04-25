@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+GITHUB URL: https://github.com/Snehalvs30/Monday_Group_46_Final_Project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
